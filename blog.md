@@ -7,10 +7,8 @@
 - Therefore, I chose 4096 samples ~= 92ms as the downsampling ratio (block size)
 - Peak detection algo runs on 8/16/32 such blocks
 
-* 2015-10-07: The problem of double peaks: ```
-|---|---|--||---|
-```
-persists
+* 2015-10-07: The problem of double peaks:
+|---|---|--||---|  persists
 - Trying to sort it out through windowing
 
 * 2015-10-08: 	
