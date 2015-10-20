@@ -2,6 +2,7 @@
 ### 2015-10-20
 
 Two main streams of ideas
+
 1. Metronome/ Beats problem
 2. Classification and democratic playlist problem
 
@@ -22,15 +23,13 @@ Pubs, bars an restaurants can have the following scene
 * The wearable vibrates according to the groove/rhythm/beat in the song, giving you a musicorgasm
 
 Now lets get to the work that needs to be done
+
 1. Beat tracking (as opposed to metronome tracking)
 2. Classification of songs into genre
 
 ---**For classification, we can intially have an app which does not in itself classify songs ino genres, but searches for it on the internet
-```
-Windows Media Player actually does the same. 
-Will have to understan how that can be done.
-A quick Google search pointed me to [MusicBrainz](https://www.musicbrainz.org "Website") and their [GitHub Repo](https://github.com/metabrainz/musicbrainz-server)
-```
+---Windows Media Player actually does the same. Will have to understan how that can be done.
+---A quick Google search pointed me to [MusicBrainz](https://www.musicbrainz.org "Website") and their [GitHub Repo](https://github.com/metabrainz/musicbrainz-server)
 
 When the user inputs his preference for "Reggae", the system will display most popular Reggae songs and/or artists for instance *Roots Rock Reggae by Bob Marley*
 
